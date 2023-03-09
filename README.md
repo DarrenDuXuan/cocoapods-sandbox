@@ -34,7 +34,7 @@
 
 ##### 2.3 使用
 
-`pod sandbox checkout #{ssh://xxxx.git} --path=master --path=/User/xxx/..`
+`pod sandbox checkout #{ssh://xxxx.git} --branch=master --path=/User/xxx/..`
 
 #### 3. clean
 
